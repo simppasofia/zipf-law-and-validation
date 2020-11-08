@@ -1,0 +1,1 @@
+# zipf-law-and-validation
